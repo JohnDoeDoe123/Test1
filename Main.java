@@ -8,7 +8,8 @@ public class Main {
 
     public static void main(String[] args)  throws FileNotFoundException {
 	// write your code here
-	//blabla bla
+	//blabla bla blab
+        //hello
 
         Scanner in  = new Scanner(new File("c:\\temp\\hello.txt"));
 
